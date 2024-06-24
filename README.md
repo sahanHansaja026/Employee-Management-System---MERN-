@@ -104,15 +104,15 @@ Once the application is running, you can perform the following actions:
 
 ### Add Employee
 
-![Add Employee]([path_to_add_employee_image](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%202.png))
+![Add Employee](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%202.png)
 
 ### Edit Employee
 
-![Edit Employee](path_to_edit_employee_image)
+![Edit Employee](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/upload/main)
 
 ### Specific Employee Full Deatails
 
-![Specific Employee Deatails](path_to_employee_list_image)
+![Specific Employee Deatails](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%203.png)
 
 ## Contributing
 
