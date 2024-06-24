@@ -114,6 +114,10 @@ Once the application is running, you can perform the following actions:
 
 ![Specific Employee Deatails](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%203.png)
 
+### Fontend port
+
+![Fontend port](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%205.png)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
