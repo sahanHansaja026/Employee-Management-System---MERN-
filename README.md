@@ -108,7 +108,7 @@ Once the application is running, you can perform the following actions:
 
 ### Edit Employee
 
-![Edit Employee](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/upload/main)
+![Edit Employee](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%204.png)
 
 ### Specific Employee Full Deatails
 
@@ -118,10 +118,3 @@ Once the application is running, you can perform the following actions:
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to replace the placeholders (e.g., `path_to_home_page_image`) with the actual paths to your images.
