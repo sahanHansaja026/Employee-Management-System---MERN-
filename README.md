@@ -115,6 +115,7 @@ Once the application is running, you can perform the following actions:
 ![Specific Employee Deatails](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%203.png)
 
 ### Fontend port
+<img src="https://t.bkit.co/w_668cd80be60a9.gif" />
 
 ![Fontend port](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%205.png)
 
