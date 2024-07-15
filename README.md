@@ -1,6 +1,6 @@
 # Employee Management System
 
-![Home Page](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%201.png)
+![Home Page](https://github.com/sahan026/images/blob/main/employmanagemt1.png)
 
 A full-stack Employee Management System built with the MERN stack (MongoDB, Express.js, React, and Node.js). This application allows you to perform CRUD (Create, Read, Update, Delete) operations to manage employee information efficiently.
 
@@ -100,24 +100,24 @@ Once the application is running, you can perform the following actions:
 
 ### Home Page
 
-![Home Page](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%201.png)
+![Home Page](https://github.com/sahan026/images/blob/main/employmanagemt1.png)
 
 ### Add Employee
 
-![Add Employee](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%202.png)
+![Add Employee](https://github.com/sahan026/images/blob/main/employmanagemt2.png)
 
 ### Edit Employee
 
-![Edit Employee](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%204.png)
+![Edit Employee](https://github.com/sahan026/images/blob/main/employmanagemt4.png)
 
 ### Specific Employee Full Deatails
 
-![Specific Employee Deatails](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%203.png)
+![Specific Employee Deatails](https://github.com/sahan026/images/blob/main/employmanagemt3.png)
 
 ### Fontend port
 <img src="https://t.bkit.co/w_668cd80be60a9.gif" />
 
-![Fontend port](https://github.com/sahanHansaja026/Employee-Management-System---MERN-/blob/main/image%205.png)
+![Fontend port](https://github.com/sahan026/images/blob/main/employmanagemt5.png)
 
 ## Contributing
 
